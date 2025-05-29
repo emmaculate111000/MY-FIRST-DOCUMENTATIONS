@@ -20,7 +20,8 @@ I'm motivated by the opportunity to work with data and uncover hidden patterns, 
 
 ## PROJECT TOPIC: E commerce Sales Analysis
 
-###Project Overview
+Project Overview
+
 This Data Analysis project aims to generate insight into the sales performance of the Ecommerce project over the past years. By analyzing the various parameters in the Data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
 
 ### DATA SOURCE
