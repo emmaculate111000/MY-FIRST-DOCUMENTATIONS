@@ -1,5 +1,5 @@
 # MY-FIRST-DOCUMENTATIONS
-this is where I started my portfolio building while taken my DATA Analysis class with the incubator
+this is where I started my portfolio building while taken my DATA Analysis class with the incubatorHub
 ## About Me
 As an aspiring data analysis professional, I'm currently undergoing training to develop my skills in data analysis, visualization, and interpretation. I'm passionate about working with data and excited to apply my knowledge to drive business insights and inform strategic decisions.
 
@@ -20,7 +20,7 @@ I'm motivated by the opportunity to work with data and uncover hidden patterns, 
 
 ## PROJECT TOPIC: E commerce Sales Analysis
 
-Project Overview
+**Project Overview
 
 This Data Analysis project aims to generate insight into the sales performance of the Ecommerce project over the past years. By analyzing the various parameters in the Data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
 
@@ -36,3 +36,5 @@ The primary data source used is Data Sales.csv and this is an open source data t
 - sql server( for quarring and analysis)
 - Power BI(for creating a report)
 - MS Power Point (for presentation)
+
+
